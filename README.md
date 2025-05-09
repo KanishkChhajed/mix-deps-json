@@ -26,7 +26,7 @@
   
   ## 📢 Last Commit
   
-  > "Adding my workflow for testing"
+  > "Removing mix.exs file"
   
   ---
   
@@ -39,9 +39,9 @@
   
   - [`barisbalic`](#)
   
-  - [`katzj`](#)
-  
   - [`KanishkChhajed`](#)
+  
+  - [`katzj`](#)
   
   - [`tiegz`](#)
   

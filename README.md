@@ -26,7 +26,7 @@
   
   ## 📢 Last Commit
   
-  > "Removing mix.exs file"
+  > "📚 Auto-generation README"
   
   ---
   
